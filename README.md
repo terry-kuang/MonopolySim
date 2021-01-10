@@ -15,4 +15,4 @@ Terry Kuang 2021
 Originally created in March of 2020 for an HL Math IA to mimic a player going around the board a given number of times
 
 ## License
-MIT License is attached
+MIT License is attached in repository separately
